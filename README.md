@@ -1,6 +1,8 @@
 
 ## Python и игра жизни Конвея
 
+Ссылка на презентацию: https://www.canva.com/design/DAFUEmTl5vY/AedsLqpi7plbQ6ExbHG_fw/view?utm_content=DAFUEmTl5vY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Написано на языке Python 
 
 Требуется numpy и pygame
